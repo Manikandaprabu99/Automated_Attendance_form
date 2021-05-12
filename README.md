@@ -1,2 +1,5 @@
 # Automated_Attendance_form
-Attendance form 
+Requirement:
+selenium
+ChromeDriver
+Time
