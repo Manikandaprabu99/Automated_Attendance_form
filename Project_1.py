@@ -13,7 +13,7 @@ def form():
     email.send_keys(mail)
     nextButton = web.find_element_by_xpath('//*[@id="identifierNext"]/div/button/div[2]')
     nextButton.click()
-    password='18E218@9999'
+    password='XXXXXXXX'
     pswd=web.find_element_by_xpath('//*[@id="password"]/div[1]/div/div[1]/input')
     pswd.send_keys(password)
     login=web.find_element_by_xpath('//*[@id="passwordNext"]/div/button/div[2]')
